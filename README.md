@@ -1,0 +1,2 @@
+# Sali
+Kuntosalisovelluksen testausta
